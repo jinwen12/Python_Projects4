@@ -1,7 +1,7 @@
 #Jinyuan Piao
 ##This will help you to find equation for Eigenvalues for 3 by 3 matrices in a differential equation.
 #It only works for intergers.
-print("Hello, name the numbers same as shown here and the type the numbers.")
+print("Hello, name the INTERGERS same as shown here and the type the intergets.")
 print("(c1,c2,c3")
 print("c4,c5,c6")
 print("c7,c8,c9)")
