@@ -1,0 +1,11 @@
+letter=input()
+x=1
+world1="`"
+world2="{"
+while x>0:
+      if world1<=letter<=world2:
+            print(letter)
+            x=0
+      else:
+            letter=input()
+            x+=1
